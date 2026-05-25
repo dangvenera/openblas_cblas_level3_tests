@@ -1,0 +1,7 @@
+build/
+build_local/
+*.o
+*.a
+*.so
+test_openblas
+test_wrong
